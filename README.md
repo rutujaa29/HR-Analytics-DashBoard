@@ -60,22 +60,6 @@ The dataset contains employee-related information such as:
 - Monthly Income
 - Years at Company
 
-## Project Structure
-HR-Analytics-Dashboard/
-│
-├── Dataset/
-│ └── HR_Data.xlsx
-│
-├── Tableau/
-│ └── HR_Analytics_Dashboard.twbx
-│
-├── SQL/
-│ └── HR_Analytics_Queries.sql
-│
-├── Images/
-│ └── Dashboard_Screenshot.png
-│
-└── README.md
 
 ## How to Use
 
